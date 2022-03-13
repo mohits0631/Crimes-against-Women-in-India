@@ -9,6 +9,6 @@ The analysis has been done using the following Python libraries:
 - Seaborn
 - Plotly
 
-You can view the notebook [here](#)
+You can view the notebook [here](https://nbviewer.org/github/mohits0631/Crimes-against-Women-in-India/blob/master/crimes-against-women.ipynb)
 
 This data is collated from https://data.gov.in.
